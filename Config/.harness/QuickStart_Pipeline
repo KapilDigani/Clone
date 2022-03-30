@@ -1,5 +1,5 @@
 pipeline:
-    name: QuickStart Pipeline
+    name: QuickStart Pipeline1
     identifier: QuickStart_Pipeline
     allowStageExecutions: false
     projectIdentifier: KD_Clone
